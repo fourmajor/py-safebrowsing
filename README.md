@@ -16,3 +16,5 @@ A known limitation is the URL checking regular expression will not catch absolut
 This was developed using Python 3.6.1. Different versions of Python may have different results.
 
 A future improvement could include direct writing of the output to a file. It could also include different output formats, or combining all the JSON responses into one output.
+
+The domains file has been included as a large list of known malicious domains to be used for testing. This file is from http://mirror1.malwaredomains.com/files/domains.txt
